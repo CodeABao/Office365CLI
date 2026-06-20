@@ -1,6 +1,8 @@
 {
   "name": "teamscli-build",
   "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/CodeABao/Office365CLI",
   "description": "Packaged build output for teamscli",
   "bin": {
     "teamscli": "bin/Release/net10.0/win-x64/publish/teamscli.exe"
