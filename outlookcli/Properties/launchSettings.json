@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "outlookcli": {
+      "commandName": "Project",
+      "commandLineArgs": "list --token \"UwWyXNtEfWh42f3BaxRNPifyt7w7T+lQ7NNus1nrXOg=\" --top 5"
+    }
+  }
+}

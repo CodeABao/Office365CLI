@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sharepointcli": {
+      "commandName": "Project",
+      "commandLineArgs": "upload --site-url https://example.sharepoint.com/sites/ShowPortal --library-name \"Site Pages\" --file-path \"D:\\tempData\\spopages\\Site Pages\\forTools.aspx\""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "teamscli": {
+      "commandName": "Project",
+      "commandLineArgs": "read-meeting-transcript --join-web-url \"https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzViOWFhMDItYTA5Mi00MTJlLTg4MDctOThlM2VmYjNkZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%225c7d0b28-bdf8-410c-aa93-4df372b16203%22%2c%22Oid%22%3a%22363b3d4a-36d2-450a-9769-9427d63c7fa7%22%7d\""
+    }
+  }
+}

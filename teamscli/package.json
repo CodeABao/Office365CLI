@@ -1,0 +1,15 @@
+{
+  "name": "teamscli-build",
+  "version": "0.0.1",
+  "description": "Packaged build output for teamscli",
+  "bin": {
+    "teamscli": "bin/Release/net10.0/win-x64/publish/teamscli.exe"
+  },
+  "files": [
+    "bin/Release/net10.0/win-x64/publish/teamscli.exe",
+    "bin/Release/net10.0/win-x64/publish/msalruntime.dll"
+  ],
+  "scripts": {
+    "pack:build": "npm pack"
+  }
+}

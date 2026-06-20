@@ -1,0 +1,15 @@
+{
+  "name": "sharepointcli-build",
+  "version": "0.0.1",
+  "description": "Packaged build output for sharepointcli",
+  "bin": {
+    "sharepointcli": "bin/Release/net10.0/win-x64/publish/sharepointcli.exe"
+  },
+  "files": [
+    "bin/Release/net10.0/win-x64/publish/sharepointcli.exe",
+    "bin/Release/net10.0/win-x64/publish/msalruntime.dll"
+  ],
+  "scripts": {
+    "pack:build": "npm pack"
+  }
+}
