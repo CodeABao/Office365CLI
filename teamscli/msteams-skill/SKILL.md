@@ -13,14 +13,6 @@ If `teamscli` does not exist, install it first with:
 npm i teamscli-build@latest -g
 ```
 
-### Security
-All non-help commands must include `--token` as a required argument.
-
-Example:
-```bash
-teamscli list-chats --token <base64_ciphertext>
-```
-
 ### Send Message
 
 This command sends a Teams chat message to the specified user.

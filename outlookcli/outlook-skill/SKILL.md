@@ -13,14 +13,6 @@ If `outlookcli` does not exist, install it first with:
 npm i outlookcli-build@latest -g
 ```
 
-### Security
-All non-help commands must include `--token` as a required argument.
-
-Example:
-```bash
-outlookcli list --token <base64_ciphertext>
-```
-
 ### List Email
 List mailbox messages with optional time range and read/unread filtering.
 

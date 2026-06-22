@@ -13,14 +13,6 @@ If `sharepointcli` does not exist, install it first with:
 npm i sharepointcli-build@latest -g
 ```
 
-### Security
-All non-help commands must include `--token` as a required argument.
-
-Example:
-```bash
-sharepointcli search --keyword report --token <base64_ciphertext>
-```
-
 ### Read SharePoint file content
 
 ```bash
